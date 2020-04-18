@@ -1,0 +1,24 @@
+{
+    "organization_name": "EXAMPLE",
+    "webhook_event_id": 9999999,
+    "organization_id": 99999,
+    "webhook_type": "AL",
+    "webhook_event_data": {
+        "check_state_name": "Available",
+        "check_target_response_time": 100,
+        "recently_started_check_state_name": null,
+        "check_id": 1,
+        "recently_started_check_start_time": null,
+        "http_status_code": 200,
+        "request_start_time": "2020-04-18T08:34:44.746900+00:00",
+        "check_name": "Example check",
+        "recently_started_check_http_status_code": null,
+        "application_name": "Webhook test",
+        "recently_started_check_response_time": null,
+        "request_url": "https://www.example.com/",
+        "check_computed_target_response_time": 200,
+        "response_time": 50
+    },
+    "webhook_id": 99999,
+    "webhook_event_created_on": "2020-04-18T08:34:44.747420+00:00"
+}
